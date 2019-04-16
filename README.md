@@ -1,2 +1,9 @@
-# mernaws
-Node, React and MongoDB app and deployment
+# MERN AWS
+
+Node
+React 
+MongoDB
+
+Docker
+Jenkins
+AWSECS
